@@ -1,4 +1,4 @@
-# IronManVRFlightPrefab
+# IronManVRFlightUnity
 Proof of concept in Unity which allows you to fly around like Iron Man using the Oculus Touch controllers. When the trigger buttons are depressed, the script calculates where the controllers are relative to the headset and applies a force on a parent RigidBody which the camera is attached to. The script also controls particle and sound effects when thrusting. This is meant just for fun and won't be further developed.
 
 **Tested on an Oculus Quest**
